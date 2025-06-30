@@ -42,7 +42,7 @@ t10k-labels-idx1-ubyte.gz: test set labels (4542 bytes))](https://www.kaggle.com
 * **Target(s) output in the final model**: One-hot encoded label vector: [0, 0, 0, 0, 0, 1, 0, 0, 0, 0] for digit "5"
 * **Type of model**: Convolutional Neural Network (CNN)
 * **Version of the modeling software**: Python version: 3.11.13, NumPy version: 2.0.2, TensorFlow version: 2.18.0, Matplotlib version: 3.10.0,
-* * **Hyperparameters or other settings of the model**:
+* **Hyperparameters or other settings of the model**:
 
 | Layer Type | Key Hyperparameters |  
 |------------|---------------------|  
