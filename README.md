@@ -55,5 +55,8 @@ t10k-labels-idx1-ubyte.gz: test set labels (4542 bytes))](https://www.kaggle.com
 | Dense #1	| units=84, activation='tanh' |  
 | Dense Output | units=10, activation='softmax' |  
 
+* **Architecture of the model**:
 
+![Model Arc](CNN_model_arc.jpg)
+Figure 1. Model Achitecture
 
