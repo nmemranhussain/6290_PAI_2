@@ -25,14 +25,14 @@ To built a compact LeNet-5 CNN using TensorFlow/Keras to classify handwritten di
 | y_test	| Test labels; digit class for each test image	| ndarray (10000, ) before encoding (10000, 10) after one-hot encoding | 2 or [0,0,1,0,0,0,0,0,0,0]|  
 | pixel values	| Intensity values ranging from 0 (black) to 255 (white), later normalized to [0,1]	| float32 after normalization	| 0.00 – 1.00 |  
 
-* **Source of training data**: [MNIST Datasets(train-images-idx3-ubyte.gz: training set images (9912422 bytes)
+* **Source of training data**: [MNIST Datasets (train-images-idx3-ubyte.gz: training set images (9912422 bytes)
 train-labels-idx1-ubyte.gz: training set labels (28881 bytes))](https://www.kaggle.com/datasets/hojjatk/mnist-dataset) 
 * **How training data was divided into training and validation data**: 90% training, 10% validation.
 * **Number of rows in training data**: 60,000 rows of 28×28 grayscale images and 784 features
 * **Validation data**: 6,000 images of 28×28 grayscale images and 784 features
   
 ### Test Data
-* **Source of test data**: [MNIST Datasets(t10k-images-idx3-ubyte.gz: test set images (1648877 bytes)
+* **Source of test data**: [MNIST Datasets (t10k-images-idx3-ubyte.gz: test set images (1648877 bytes)
 t10k-labels-idx1-ubyte.gz: test set labels (4542 bytes))](https://www.kaggle.com/datasets/hojjatk/mnist-dataset) 
 * **Test Set**: 10,000 rows, each with 784 pixel features if flattened, or (28, 28, 1) shape
 * **Any differences in columns between training and test data**: The test set is completely separate from training data—no overlap.
