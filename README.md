@@ -69,7 +69,7 @@ Figure 1. Model Achitecture
 | 0.9563 | 0.9640  | 0.9619 |  
 
 * Plots related with data & model
-![Model image](CNN_non_zero_pixels_hand_img.jpg)
+![Model image](CNN_non_zero_pixels_hand_img.jpg)  
 Figure 1. Model Achitecture
 
 
