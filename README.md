@@ -70,6 +70,6 @@ Figure 1. Model Achitecture
 
 * Plots related with data & model
 ![Model image](CNN_non_zero_pixels_hand_img.jpg)  
-Figure 1. Model Achitecture
+Figure 1. Non-zero pixels indicate the hand-drawn image
 
 
