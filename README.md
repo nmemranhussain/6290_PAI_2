@@ -1,5 +1,5 @@
 # Handwritten Digit Classification with LeNet-5 Inspired CNN on MNIST
-To built a compact LeNet-5 CNN using TensorFlow/Keras to classify handwritten digits from the MNIST dataset. The project includes data preprocessing, model architecture design, training, and performance evaluation—demonstrating a practical deep learning workflow for image classification.
+To built a compact LeNet-5 Convolutional Neural Network (CNN) using TensorFlow/Keras to classify handwritten digits from the MNIST dataset. The project includes data preprocessing, model architecture design, training, and performance evaluation—demonstrating a practical deep learning workflow for image classification.
 
 ### Basic Information
 
