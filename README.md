@@ -1,1 +1,2 @@
-# 6290_PAI_2
+# Image Recognition with Deep Learning: Implementing a Compact LeNet-5 on MNIST
+This project demonstrates the development and training of a compact Convolutional Neural Network inspired by LeNet-5 architecture to classify handwritten digits from the MNIST dataset. It includes data preprocessing, model design, training, and evaluation—showcasing practical deep learning implementation using TensorFlow/Keras for image classification tasks.
