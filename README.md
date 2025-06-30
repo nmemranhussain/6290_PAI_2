@@ -62,9 +62,9 @@ Figure 1. Model Achitecture
 
 ### Quantitative Analysis
 
-* Models were assessed primarily with AUC:
+* CNN Model's performace with **Accuracy**:
 
-| Train AUC | Validation AUC | Test AUC |
+| Train | Validation | Test |
 | ------ | ------- | -------- |
 | 0.9563 | 0.9640  | 0.9619 |  
 
