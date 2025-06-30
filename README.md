@@ -60,3 +60,16 @@ t10k-labels-idx1-ubyte.gz: test set labels (4542 bytes))](https://www.kaggle.com
 ![Model Arc](CNN_model_arc.jpg)
 Figure 1. Model Achitecture
 
+### Quantitative Analysis
+
+* Models were assessed primarily with AUC:
+
+| Train AUC | Validation AUC | Test AUC |
+| ------ | ------- | -------- |
+| 0.9563 | 0.9640  | 0.9619 |  
+
+* Plots related with data & model
+![Model image](CNN_non_zero_pixels_hand_img.jpg)
+Figure 1. Model Achitecture
+
+
