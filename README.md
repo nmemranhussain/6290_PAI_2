@@ -16,7 +16,8 @@ To built a compact LeNet-5 CNN using TensorFlow/Keras to classify handwritten di
 ### Training Data
 
 * Data dictionary:
-| Field Name | Description | Data Type | Example  
+
+| Field Name | Description | Data Type | Example |  
 |-----------|--------------|------------|----------|
 | x_train	| Training images grayscale pixel values of handwritten digits (0–9) | ndarray (60000, 28, 28, 1) |	28×28 pixel matrix |  
 | y_train	| Training labels; corresponding digit class for each image	| ndarray (60000, ) before encoding (60000, 10) after one-hot encoding	| 5 or [0,0,0,0,0,1,0,0,0,0] |  
