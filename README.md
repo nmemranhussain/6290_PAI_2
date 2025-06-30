@@ -7,4 +7,4 @@ To built a compact LeNet-5 CNN using TensorFlow/Keras to classify handwritten di
 * **Model date**: June, 2025
 * **Model version**: 1.0 
 * **License**: [Apache License 2.0](https://github.com/nmemranhussain/6290_PAI_2/blob/main/LICENSE)
-* **Model implementation code**: [Assignment_1](https://github.com/nmemranhussain/6290_PAI_2/blob/main/Assignment_3_final.ipynb), 
+* **Model implementation code**: [Assignment_3](https://github.com/nmemranhussain/6290_PAI_2/blob/main/Assignment_3_final.ipynb), 
